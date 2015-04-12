@@ -1,0 +1,29 @@
+{
+  "name": "sasstools",
+  "version": "0.0.1",
+  "description": "A parser and AST for Sass' SCSS syntax written in JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "pstrscan": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasstools/scssparse"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "parser",
+    "ast"
+  ],
+  "author": "xzyfer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasstools/scssparse/issues"
+  },
+  "homepage": "https://github.com/sasstools/scssparse"
+}
